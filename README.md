@@ -2,7 +2,7 @@
 
 # Relaxation
 
-This is an HTML template as part of my products to be displayed in [AriaDesign](https://github.com/Aria-vero-s/ariadesign)
+This is an HTML template for a Cranial-Sacral-Therapy clinic [Live link]([https://github.com/Aria-vero-s/ariadesign](https://aria-vero-s.github.io/relaxation/))
 
 ## Technologies used:
 - HTML/CSS
